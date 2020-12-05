@@ -1,3 +1,3 @@
-#Netflix landing page
+# Netflix landing page
 
 > Using HTML, CSS and vanilla JavaScript
